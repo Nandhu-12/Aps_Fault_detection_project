@@ -1,0 +1,4 @@
+[ 2023-05-16 14:18:22,508 ] 14 root - INFO - creating artifact folder with timestamp
+[ 2023-05-16 14:18:22,508 ] 24 root - INFO - defining inputs for data_ingestion
+[ 2023-05-16 14:18:22,508 ] 33 root - INFO - creating directory and files for artifact
+[ 2023-05-16 14:18:22,508 ] 22 root - INFO - Importing collection data as pandas dataframe
